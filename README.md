@@ -1,9 +1,20 @@
-![banner](https://drive.google.com/drive/u/0/folders/1WV6aQuXfB0r0AlEARu7-1CVlRl61xnoi)
+# Hi there, I'm Irzikri Naufaldi - aka [zikardd](https://www.linkedin.com/in/irzikri-naufaldi/) 👋
+## About me:
+- 🔭 I’m looking for electrical engineering and data science work
+- 🌱 I’m currently learning Python, Javascript, and MySQL
+- 👯 I’m looking to collaborate as Data Scientist
+- 💬 Ask me about anything
+- 📫 How to reach me: naufaldiirzikri@gmail.com
 
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
+## Education:
 
-Feel free to add your own or someone else's profile README if you find it super awesome! 
+#### 1. [Universitas Syiah Kuala](https://unsyiah.ac.id/) | Bachelor of Electrical Engineering | Banda Aceh `2017-2022`
+   - Asistant Laboratorium of System Control
+#### 2. [MAN 1 Banda Aceh](https://www.manmodelbna.sch.id/) | IPA | Banda Aceh `2014-2017`
+   - Treasurer of Rapai Geleng Pocut Baren Community
 
-Don't forget to leave a if you find this repo useful ⭐
-
-Thankyou🎆
+## Work Experience:
+#### 1. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Project Controller | Lhokseumawe `Jul'2020 - Aug'2020`
+   - analysis of pressure control lng boil off compressor using PLC
+   - collect data in PT. Perta Arun Gas library
+---
