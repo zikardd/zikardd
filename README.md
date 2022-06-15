@@ -1,4 +1,4 @@
-![banner]([https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg](https://drive.google.com/drive/u/0/folders/1WV6aQuXfB0r0AlEARu7-1CVlRl61xnoi))
+(https://drive.google.com/drive/u/0/folders/1WV6aQuXfB0r0AlEARu7-1CVlRl61xnoi)
 
 The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
 
