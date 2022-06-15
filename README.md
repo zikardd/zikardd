@@ -14,7 +14,7 @@
    - Treasurer of Rapai Geleng Pocut Baren Community
 
 ## Work Experience:
-#### 1. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Project Controller | Lhokseumawe `Jul'2020 - Aug'2020`
-   - analysis of pressure control lng boil off compressor using PLC
-   - collect data in PT. Perta Arun Gas library
+#### 1. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Practical Work | Lhokseumawe `Jul'2020 - Aug'2020`
+   - Analysis of pressure control LNG Boil Off Compressor using PLC
+   - Collecting data in PT. Perta Arun Gas library
 ---
