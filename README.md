@@ -9,7 +9,7 @@
 ## Education:
 
 #### 1. [Universitas Syiah Kuala](https://unsyiah.ac.id/) | Bachelor of Electrical Engineering | Banda Aceh `2017-2022`
-   - Asistant Laboratorium of System Control
+   - Asistant Laboratorium of System Control Laboratory
 #### 2. [MAN 1 Banda Aceh](https://www.manmodelbna.sch.id/) | IPA | Banda Aceh `2014-2017`
    - Treasurer of Rapai Geleng Pocut Baren Community
 
