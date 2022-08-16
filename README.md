@@ -14,7 +14,10 @@
    - Treasurer of Rapai Geleng Pocut Baren Community
 
 ## Work Experience:
-#### 1. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Practical Work | Lhokseumawe `Jul'2020 - Aug'2020`
+#### 1. [PT. Solusi Bangun Andalas](https://solusibangunindonesia.com/) | Electrical Maintenance | Aceh Besar `Jun'2022 - Present`
+   - Project management
+   - Predictive maintenance project with Electrical Department team
+#### 2. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Practical Work | Lhokseumawe `Jul'2020 - Aug'2020`
    - Analysis of pressure control LNG Boil Off Compressor using PLC
    - Collecting data in PT. Perta Arun Gas library
 ---
