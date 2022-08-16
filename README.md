@@ -1,7 +1,7 @@
 # Hi there, I'm Irzikri Naufaldi - aka [zikardd](https://www.linkedin.com/in/irzikri-naufaldi/) 👋
 ## About me:
 - 🔭 I’m looking for electrical engineering and data science work
-- 🌱 I’m currently learning Python, R, and MySQL
+- 🌱 I’m currently learning Python, R, Ms. Excel, and Ms. Word
 - 👯 I’m looking to collaborate as Data Scientist
 - 💬 Ask me about anything
 - 📫 How to reach me: naufaldiirzikri@gmail.com
