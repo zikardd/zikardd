@@ -15,9 +15,13 @@
 
 ## Work Experience:
 #### 1. [PT. Solusi Bangun Andalas](https://solusibangunindonesia.com/) | Electrical Maintenance | Aceh Besar `Jun'2022 - Present`
-   - Project management
-   - Predictive maintenance project with Electrical Department team
+   - Personal In Charge in Predictive Maintenance Project "Remaining Useful Life Prediction of Induction Motors Using Nonlinear Degradation of Health Index".
+   - Data collecting from Technical Information System (TIS) server using Microsoft Excel.
+   - Data preprocessing using python programming language.
+   - Data visualitation using tableau.
+   - Create machine learning model using linear regression method.
+   - Create WEB program using Flask API and HTML.
 #### 2. [PT. Perta Arun Gas](http://www.pertaarungas.pertamina.com/) | Practical Work | Lhokseumawe `Jul'2020 - Aug'2020`
-   - Analysis of pressure control LNG Boil Off Compressor using PLC
-   - Collecting data in PT. Perta Arun Gas library
+   - Learn fundamental Programmable Logic Control (PLC)
+   - Learn work flow from PLC to Human Machine Interface (HMI)
 ---
