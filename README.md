@@ -1,7 +1,7 @@
 # Hi there, I'm Irzikri Naufaldi - aka [zikardd](https://www.linkedin.com/in/irzikri-naufaldi/) 👋
 ## About me:
-- 🔭 I’m interested in data science, data analyst, and data engineer 
-- 🌱 I’m currently learning Python, Ms. Excel, SQL, and Tableau
+- 🔭 I’m interested in Data Science, Data Analyst, and Data Engineer 
+- 🌱 I’m currently learning Python, Ms. Excel, SQL, C++, and Tableau
 - 💬 Ask me about anything
 - 📫 How to reach me: naufaldiirzikri@gmail.com
 
